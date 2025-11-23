@@ -1,0 +1,5 @@
+{
+  "name": "FluxoScribe",
+  "description": "Um transcritor de áudio e vídeo moderno e rápido utilizando a IA Gemini.",
+  "requestFramePermissions": []
+}
